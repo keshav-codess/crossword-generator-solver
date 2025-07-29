@@ -32,17 +32,10 @@ This project allows users to:
 
 ## 🖼️ Screenshots  
 
-### 🏠 Home Page  
-![Home Page](screenshots/home.png)  
+| 🏠 Home Page | 🛠 Generate Crossword | 🔍 Solve Crossword | ✅ Solved Crossword (Highlighted Words) |
+|--------------|----------------------|-------------------|-----------------------------------------|
+| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/generate.png" width="250"/> | <img src="screenshots/solve.png" width="250"/> | <img src="screenshots/solved.png" width="250"/> |
 
-### 🛠 Generate Crossword  
-![Generate Crossword](screenshots/generate.png)  
-
-### 🔍 Solve Crossword  
-![Solve Crossword](screenshots/solve.png)  
-
-### ✅ Solved Crossword (Highlighted Words)  
-![Solved Crossword](screenshots/solved.png)  
 
 ---
 
@@ -86,10 +79,10 @@ http://localhost:8080/crossmaster
 
 ---
 
+<details>
+<summary>📁 Project Structure (Click to expand)</summary>
 
-📂 Project Structure
-
-Edit
+<pre>
 crossmaster/
 │
 ├── src/main/
@@ -105,6 +98,9 @@ crossmaster/
 │
 ├── pom.xml
 └── README.md
+</pre>
+
+</details>
 
 ---
 
