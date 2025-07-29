@@ -1,8 +1,12 @@
-# 🧩 CrossMaster - Crossword Generator & Solver  
+<h1 align="center">🧩 CrossMaster</h1>
+<h3 align="center">A Dynamic Crossword Generator & Solver Web Application using Java Servlets</h3>
 
-![CrossMaster Banner](https://img.shields.io/badge/Java%20Servlets-Maven-blue?style=for-the-badge&logo=java)  
-![Crossword Solver](https://img.shields.io/badge/Crossword-Generator%20%26%20Solver-orange?style=for-the-badge&logo=apachetomcat)  
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20Servlets-Maven-blue?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crossword-Generator%20%26%20Solver-orange?style=for-the-badge&logo=apachetomcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
+
 
 ---
 
@@ -49,34 +53,42 @@ This project allows users to:
 - **Build Tool:** Maven  
 - **Version Control:** Git & GitHub  
 
+ 
 ---
 
-## ⚡ Setup Instructions  
+## ⚡ Setup Instructions 
 
-### 1️⃣ Clone the Repository  
+### 1️⃣ Clone the Repository
+
 ```bash
 git clone https://github.com/your-username/crossmaster.git
 cd crossmaster
+```
 
-2️⃣ Build the Project
-bash
-Copy
-Edit
+---
+
+### 2️⃣ Build the Project
+
+```bash
 mvn clean install
-3️⃣ Deploy on Tomcat
-Copy the generated WAR file from target/ to your Tomcat webapps/ folder.
+```
 
-Start Tomcat and access:
+---
 
-bash
-Copy
-Edit
+### 3️⃣ Deploy on Tomcat
+
+- Copy the generated WAR file from the target/ folder to your Tomcat webapps/ directory.
+- Start Tomcat server and access the app:
+
+```bash
 http://localhost:8080/crossmaster
+```
+
+---
 
 
 📂 Project Structure
-swift
-Copy
+
 Edit
 crossmaster/
 │
@@ -93,3 +105,24 @@ crossmaster/
 │
 ├── pom.xml
 └── README.md
+
+---
+
+## 🙌 Acknowledgements
+
+- 📜 Servlet & JSP Docs from [Jakarta EE Documentation](https://jakarta.ee/specifications/servlet/)
+- 🎨 UI Design Inspiration from [Bootstrap Docs](https://getbootstrap.com/)
+- ✨ UI Icons & Graphics from [Flaticon](https://www.flaticon.com/)
+
+---
+
+
+### 👨‍💻 Author
+
+👨‍💻 Made with ❤️ by [Keshav](https://github.com/keshav-codess)
+
+
+
+If you liked this project, consider ⭐ starring the repo and sharing it — _it helps a lot!_
+
+
