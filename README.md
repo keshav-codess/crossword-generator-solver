@@ -34,7 +34,7 @@ This project allows users to:
 
 | 🏠 Home Page | 🛠 Generate Crossword | 🔍 Solve Crossword | ✅ Solved Crossword (Highlighted Words) |
 |--------------|----------------------|-------------------|-----------------------------------------|
-| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/generate.png" width="250"/> | <img src="screenshots/solve.png" width="250"/> | <img src="screenshots/solved.png" width="250"/> |
+| <img src="screenshots/home.png" width="300"/> | <img src="screenshots/generate.png" width="300"/> | <img src="screenshots/solve.png" width="300"/> | <img src="screenshots/solved.png" width="300"/> |
 
 
 ---
